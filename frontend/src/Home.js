@@ -54,7 +54,7 @@ const Home = () => {
               </div>
             </div>
 
-            <div className="row">
+            {/* <div className="row">
               <div className="col-lg-3 col-6">
                 <div className="small-box bg-primary">
                   <div className="inner">
@@ -69,7 +69,7 @@ const Home = () => {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </section>
       </div>
